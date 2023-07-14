@@ -128,6 +128,7 @@ I prioritize organizing my skills into five sets:\n
 :three: **Web Development(React.js, Node.js, Flask, Django, Streamlit)** to deploy the applications.\n
 :four: **Microsoft Windows, Linux** Operating Systems.\n
 :five: **Amazon Web Services(AWS), understanding of cloud computing, Docker**.
+\nMy favorite IDEs are :notebook:**VSCode** & :pencil:**Jupyter Notebook**.
 """
 st.write(f"{x}")
 st.write("**Python**")
