@@ -188,7 +188,7 @@ st.write('''<div style="text-align: justify">The Text Utils app has been develop
 
 # Remove Background App
 st.write("#")
-st.write(f"**4. Remove Background App**\n")
+st.write(f"**4. Background Remover App**\n")
 st.write(f"**Description:**\n")
 st.write('''<div style="text-align: justify">A Background Removal application has been developed using Python, 
          Streamlit, and the PIL and rembg libraries, along with u2net models. 
@@ -201,6 +201,7 @@ st.write('''<div style="text-align: justify">A Background Removal application ha
          train and fine-tune the u2net model. With its continuous development 
          and potential for enhancement, this application has the capability to become 
          a successful AI tool.</div>''', unsafe_allow_html=True)
+st.write("[Background Remover App](https://backgroundremoverapp.streamlit.app/")
 
 # Road Sign Detector
 st.write("#")
