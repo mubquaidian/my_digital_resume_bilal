@@ -201,7 +201,6 @@ st.write('''<div style="text-align: justify">A Background Removal application ha
          train and fine-tune the u2net model. With its continuous development 
          and potential for enhancement, this application has the capability to become 
          a successful AI tool.</div>''', unsafe_allow_html=True)
-st.write("[Background Remover App](https://backgroundremoverapp.streamlit.app/", unsafe_allow_html=True)
 
 # Road Sign Detector
 st.write("#")
