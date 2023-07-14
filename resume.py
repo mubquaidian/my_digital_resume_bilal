@@ -201,7 +201,7 @@ st.write('''<div style="text-align: justify">A Background Removal application ha
          train and fine-tune the u2net model. With its continuous development 
          and potential for enhancement, this application has the capability to become 
          a successful AI tool.</div>''', unsafe_allow_html=True)
-st.write("[Background Remover App](https://backgroundremoverapp.streamlit.app/")
+st.write("[Background Remover App](https://backgroundremoverapp.streamlit.app/", unsafe_allow_html=True)
 
 # Road Sign Detector
 st.write("#")
@@ -314,7 +314,7 @@ for k, v in list(CONSTRUCTION_PROJECTS.items())[1:]:
 # Education
 st.write('#')
 st.subheader("Education")
-st.write(":robot_face:","**Certified AI Developer**, PIAIC, Islamabad, Pakistan")
+st.write(":robot_face:","**Certified AI Developer**, PIAIC, Karachi, Pakistan")
 st.write(":hammer:","**M.Sc. in Geophysics**, Quad-i-Azam University, Islamabad, Pakistan")
 st.write(":atom_symbol:","**B.Sc. in Mathematics & Physics**, BZU University, Multan, Pakistan")
 st.write(":male-scientist:","**Higher Secondary Education**, Board of Intermediate & Secondary Education, Multan, Pakistan")
