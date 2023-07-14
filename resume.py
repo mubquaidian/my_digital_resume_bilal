@@ -90,6 +90,8 @@ with col2:
     # Phone & Email
     st.write("#")
     st.write(":email:", f'<span style="font-size: 14px; line-height: 1.5;">{EMAIL}</span>', unsafe_allow_html=True)
+    st.write("Current Location: ", ":flag-pk:")
+
 #Personal Attributes
 st.write("#")
 st.write("---")
